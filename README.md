@@ -17,4 +17,4 @@ To Do
 - [ ] Create camera
 - [ ] Allow output photos
 - [ ] Create motion tracker
-- [ ] Make a better todo list
+- [ ] Make a better to do list
